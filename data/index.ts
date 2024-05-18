@@ -174,7 +174,7 @@ export const workExperience = [
   {
     id: 1,
     title: "Fletcher Moon",
-    desc: "Lead Front End Developer of our web and mobile-based apps, utilizing react.js, next.js, and react native.",
+    desc: "Lead front-end developer of our web and mobile-based apps, utilizing react.js, next.js, and react native.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
@@ -195,7 +195,7 @@ export const workExperience = [
   {
     id: 4,
     title: "Austin Lott",
-    desc: " Lead Back End Developer of our profile system and badge API, utilizing next.js, ether.js, and typescript",
+    desc: " Lead back-end developer of our profile system and badge API, utilizing next.js, ether.js, and typescript",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
   },
