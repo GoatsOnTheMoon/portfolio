@@ -76,7 +76,7 @@ export const projects = [
     des: "INSERT",
     img: "/p1.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "/ui.earth.com",
+    link: "https://goodgainsgram.vercel.app/",
   },
   {
     id: 2,
