@@ -73,7 +73,7 @@ export const projects = [
   {
     id: 1,
     title: "Gram App",
-    des: "INSERT",
+    des: "Gram is our blockchain based chat app where users own their data and digital identity. Designed as a town hall for our users.",
     img: "/p1.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
     link: "https://goodgainsgram.vercel.app/",
