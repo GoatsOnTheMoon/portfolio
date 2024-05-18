@@ -15,9 +15,9 @@ const Approach = () => {
         <Card
           title="Planning & Strategy"
           icon={<AceternityIcon order="Phase 1" />}
-          des="We'll collaborate to map out your website's goals, target audience, 
-          and key functionalities. We'll discuss things like site structure, 
-          navigation, and content requirements."
+          des="We'll collaborate to map out your Organization's goals, target design, 
+          and key functionalities. We'll discuss things like UI structure, 
+          navigation, and feature requirements."
         >
           <CanvasRevealEffect
             animationSpeed={5.1}
@@ -26,10 +26,10 @@ const Approach = () => {
           />
         </Card>
         <Card
-          title="Development & Progress Update"
+          title="Development & Design"
           icon={<AceternityIcon order="Phase 2" />}
-          des="Once we agree on the plan, I cue my lofi playlist and dive into
-          coding. From initial sketches to polished code, I keep you updated
+          des="Once we agree on the design, We dive into
+          coding your organization specific UI. From initial sketches to polished code, We'll keep you updated
           every step of the way."
         >
           <CanvasRevealEffect
@@ -48,11 +48,10 @@ const Approach = () => {
           {/* <div className="absolute inset-0 [mask-image:radial-gradient(400px_at_center,white,transparent)] bg-black/50 dark:bg-black/90" /> */}
         </Card>
         <Card
-          title="Development & Launch"
+          title="Implementation & Launch"
           icon={<AceternityIcon order="Phase 3" />}
-          des="This is where the magic happens! Based on the approved design, 
-          I'll translate everything into functional code, building your website
-          from the ground up."
+          des="Based on the approved design, We'll translate everything into your organazation specific UI for GoodGains, Implementing your UI
+          from the ground up to serve your organization's specific needs from GoodGains to upgrade your productivity and credentials. This can be done remote or on-site depending on organazation needs and plan."
         >
           <CanvasRevealEffect
             animationSpeed={3}
