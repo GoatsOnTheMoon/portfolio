@@ -18,7 +18,7 @@ export const gridItems = [
   },
   {
     id: 2,
-    title: "GoodGains works with organizations across the globe",
+    title: "GoodGains works with organizations across the globe.",
     description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     imgClassName: "",
