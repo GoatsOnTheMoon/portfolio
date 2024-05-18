@@ -57,12 +57,12 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! I&apos;m Adrian, a Next.js Developer based in Croatia.
+            Welcome! We&apos;re GoodGains, a blockchain based chat-app. Your digital third place.
           </p>
 
-          <a href="#about">
+          <a href="https://goodgainsgram.vercel.app/">
             <MagicButton
-              title="Show my work"
+              title="Get Started"
               icon={<FaLocationArrow />}
               position="right"
             />
