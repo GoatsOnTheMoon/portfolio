@@ -1,7 +1,7 @@
 export const navItems = [
-  { name: "About", link: "#about" },
-  { name: "Projects", link: "#projects" },
-  { name: "Testimonials", link: "#testimonials" },
+  { name: "Home", link: "https://www.goodgains.xyz/" },
+  { name: "Gram", link: "https://goodgainsgram.vercel.app/" },
+  { name: "Team", link: "#testimonials" },
   { name: "Contact", link: "#contact" },
 ];
 
