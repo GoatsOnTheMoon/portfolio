@@ -131,7 +131,7 @@ export const testimonials = [
   },
   {
     quote:
-      "The blockchain world needs more companies like GoodGains, doing everything from financials to User exerince the right way.",
+      "The blockchain world needs more companies like GoodGains, doing everything from financials to User experince the right way.",
     name: "Ryan Harrison",
     title: "Financials",
   },
