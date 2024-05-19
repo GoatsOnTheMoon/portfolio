@@ -81,7 +81,7 @@ export const projects = [
   {
     id: 2,
     title: "Video/Instant Messaging",
-    des: "Lets users video call for all purposes ranging from a meeting to a friendly chat",
+    des: "Lets users video call for all purposes meetings.",
     img: "/p2.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
     link: "/ui.yoom.com",
@@ -89,7 +89,7 @@ export const projects = [
   {
     id: 3,
     title: "Badge API",
-    des: "Automatically enhance your credentials with the our badge system's Get verified today. Try it now!",
+    des: "Automatically enhance your credentials with the our badge system.",
     img: "/p3.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
     link: "/ui.aiimg.com",
@@ -97,7 +97,7 @@ export const projects = [
   {
     id: 4,
     title: "Digital Identity",
-    des: "The most multi-use profile to date,as your GoodGains profile provides multiple functions. It's your digital third place.",
+    des: "The most multi-use profile to date with your GoodGains profile.",
     img: "/p4.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
     link: "/ui.apple.com",
@@ -107,31 +107,31 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "AUSTIN INFO",
+      "I love working in the blockchain space, making the technology more accessible for organazations and users alike.",
     name: "Austin Karisny",
     title: "Founder",
   },
   {
     quote:
-      "KARA INFO",
+      "Sales is my passion and I get to bring this awesome technology to more people to enjoy!",
     name: "Kara Lackey",
     title: "Co-Founder",
   },
   {
     quote:
-      "AUSTIN2 INFO",
+      "Been a coder for over 10 years and I've never worked on a project that gets me excited as GoodGains!",
     name: "Austin Lott",
     title: "Co-Founder",
   },
   {
     quote:
-      "FLETCHER INFO",
+      "Been a developer for years and I love getting to be a perfectionist by making this UI feel as Intiative as posssible",
     name: "Fletcher Moon",
     title: "Co-Founder",
   },
   {
     quote:
-      "RYAN INFO",
+      "The blockchain world needs more companies like GoodGains, doing everything from financials to User exerince the right way.",
     name: "Ryan Harrison",
     title: "Financials",
   },
