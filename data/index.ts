@@ -89,7 +89,7 @@ export const projects = [
   {
     id: 3,
     title: "Badge API",
-    des: "INSERT",
+    des: "Automatically enhance your credentials with the our badge system's Get verified today. Try it now!",
     img: "/p3.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
     link: "/ui.aiimg.com",
