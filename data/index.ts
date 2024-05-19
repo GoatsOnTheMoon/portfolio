@@ -81,7 +81,7 @@ export const projects = [
   {
     id: 2,
     title: "Video/Instant Messaging",
-    des: "INSERT",
+    des: "Lets users video call for all purposes ranging from a meeting to a friendly chat",
     img: "/p2.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
     link: "/ui.yoom.com",
@@ -97,7 +97,7 @@ export const projects = [
   {
     id: 4,
     title: "Digital Identity",
-    des: "INSERT",
+    des: "The most multi-use profile to date,as your GoodGains profile provides multiple functions. It's your digital third place.",
     img: "/p4.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
     link: "/ui.apple.com",
